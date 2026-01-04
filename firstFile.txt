@@ -5,3 +5,17 @@
 3. cd - change directory
 4. mkdir folder-name - create new folder
 5. touch file-name - create new file
+
+** Commands for local -> Remote (GitHub)
+
+1. git Init => Initialize empty repo.
+2. git add . or git add filename => to add staging area.
+3. git status -> to ckeck files status
+4. git commit -m "commit message"
+5. git log
+6. git remote add origin "github repo url"
+7. git push -u origin branch_name
+
+** Command for pull the changes from remote to local
+
+1. git pull origin branch_name
