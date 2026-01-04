@@ -19,3 +19,7 @@
 ** Command for pull the changes from remote to local
 
 1. git pull origin branch_name
+
+** Command for Clone
+ 
+ git clone "repo_url"
