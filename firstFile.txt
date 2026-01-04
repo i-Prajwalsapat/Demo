@@ -1,0 +1,7 @@
+*Git bash commands
+
+1. pwd - current working directory
+2. ls - list files
+3. cd - change directory
+4. mkdir folder-name - create new folder
+5. touch file-name - create new file
